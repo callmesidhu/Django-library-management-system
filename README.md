@@ -1,2 +1,2 @@
-Backend : Django
-DB : PostgreSQL
+# Backend : Django
+# DB : PostgreSQL
